@@ -31,38 +31,45 @@ A curated list of awesome things related to [MYDS](https://design.digital.gov.my
 
 ## Components
 
-  Supported Version | Name | Description
-  -- | -- | --
-  >=1.0.0 | [xxx](https://www.google.com/) | xxx
+  | Name | Supported Version | Description |
+| --- | --- | --- |
+| [next](https://github.com/vercel/next.js) | `14.2.15` | xxx |
+
 
 ## Tools
 
-  Supported Version | Name | Description
-  -- | -- | --
-  >=1.0.0 | [xxx](https://www.google.com/) | xxx
+  | Name | Supported Version | Description |
+| --- | --- | --- |
+| [next](https://github.com/vercel/next.js) | `14.2.15` | xxx |
+
 
 ## Theming
 
-  Supported Version | Name | Description
-  -- | -- | --
-  >=1.0.0 | [xxx](https://www.google.com/) | xxx
+  | Name | Supported Version | Description |
+| --- | --- | --- |
+| [next](https://github.com/vercel/next.js) | `14.2.15` | xxx |
+
 
 ## Boilerplate
 
 ### ReactJS
-  Supported Version | Name | Description
-  -- | -- | --
-  >=1.0.0 | [xxx](https://www.google.com/) | xxx
+
+  | Name | Supported Version | Description |
+| --- | --- | --- |
+| [next](https://github.com/vercel/next.js) | `14.2.15` | xxx |
+
 
 ### NextJS
-  Supported Version | Name | Description
-  -- | -- | --
-  >=1.0.0 | [xxx](https://www.google.com/) | xxx
+  | Name | Supported Version | Description |
+| --- | --- | --- |
+| [next](https://github.com/vercel/next.js) | `14.2.15` | xxx |
+
 
 ### Laravel
-  Supported Version | Name | Description
-  -- | -- | --
-  >=1.0.0 | [xxx](https://www.google.com/) | xxx
+| Name | Supported Version | Description |
+| --- | --- | --- |
+| [next](https://github.com/vercel/next.js) | `14.2.15` | xxx |
+
 
 ## Related Projects
 - [XXX](https://www.google.com/) - xxx
