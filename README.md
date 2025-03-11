@@ -13,11 +13,17 @@ There are only 1 (one) versions currently in use, and that is a BETA version.
 A curated list of awesome things related to [MYDS](https://design.digital.gov.my/en)
 
 - [Resources](#resources)
-- [Charts](#charts)
-- [Plugins](#plugins)
-- [Adapters](#adapters)
-- [Integrations](#integrations)
+- [Articles](#articles)
+- [Components](#components)
 - [Tools](#tools)
+- [Theming](#theming)
+- [Boilerplate](#boilerplate)
+  - [ReactJS](#reactjs)
+  - [NextJS](#nextjs)
+  - [#Laravel](#laravel)
+- [Related Projects](#relatedprojects)
+- [Others](#others)
+- [Changelog](#changelog)
 
 ## Resources
 
