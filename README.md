@@ -33,7 +33,7 @@ A curated list of awesome things related to [MYDS](https://design.digital.gov.my
 
 ## Articles
 
-- [XXX](https://www.google.com/) - XXX
+- [Malaysia Government Design System (MYDS)](https://www.reddit.com/r/malaysia/comments/1ezzz0p/malaysia_government_design_system_myds/) - XXX
 
 ## Components
 
